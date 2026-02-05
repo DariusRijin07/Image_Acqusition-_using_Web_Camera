@@ -126,7 +126,8 @@ cap.release()
 
 ### i) Write the frame as JPG image
 </br>
-<img width="782" height="635" alt="image" src="https://github.com/user-attachments/assets/52634b50-f55e-4e3e-9627-abfe26f3a1fd" />
+<img width="512" height="409" alt="download" src="https://github.com/user-attachments/assets/cc3b3bc2-a8da-44d0-8243-e44f5716d665" />
+
 
 
 
@@ -135,8 +136,9 @@ cap.release()
 
 ### ii) Display the video
 </br>
+<img width="512" height="389" alt="download" src="https://github.com/user-attachments/assets/6508e4b8-221b-467a-ae35-ab3bc57ed23d" />
 
-<img width="766" height="581" alt="Screenshot 2026-02-05 112925" src="https://github.com/user-attachments/assets/b22e6bf8-10ab-4c02-85d2-b56bcf03371c" />
+
 
 
 </br>
@@ -144,8 +146,9 @@ cap.release()
 
 ### iii) Display the video by resizing the window
 </br>
+<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/9a06a9d9-588b-4954-9a51-09350f1d78f4" />
 
-<img width="396" height="584" alt="Screenshot 2026-02-05 113013" src="https://github.com/user-attachments/assets/da4da07e-768b-46f5-a94b-378936e580e1" />
+
 
 </br>
 
@@ -154,7 +157,8 @@ cap.release()
 ### iv) Rotate and display the video
 </br>
 
-<img width="444" height="579" alt="Screenshot 2026-02-05 113112" src="https://github.com/user-attachments/assets/f71c9eb1-9e9a-4ecb-8f16-e31a15ff2dcf" />
+<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/60f1ff90-f873-4ce7-b219-0f084baf1400" />
+
 
 
 </br>
